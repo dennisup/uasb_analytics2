@@ -1,0 +1,9 @@
+en base a los datos de la base de datos de bancos y la probabilidad de la otorgacion de creditos
+
+en la grafica 1 encontre:
+que en base a la duracion de las llamadas realizadas para la otorgacion de creditos y se ve:
+
+- que si la duracion es mayor de 645.500 segundos 179 dijeron que no y 180 que si 
+- con la opcion poutcome depende del mes por ejemplo en abril solo dijeron si 3 personas y NO 64
+
+ 

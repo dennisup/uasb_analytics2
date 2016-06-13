@@ -1,0 +1,6 @@
+en la grafica 2 en base a los datos:
+- que si se contactaron por celular en base a las llamadas en los distintos meses hay
+  algunos que dijeron que si y otros que no 
+- que si se contactaron por telefono de igual manera
+- o simplemnte con personas que sacaron un prestamo con anterioridad en lo que se ve otras opciones como son la edad y el dia  
+
